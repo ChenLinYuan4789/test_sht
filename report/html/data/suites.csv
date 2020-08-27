@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","script.test_contact.TestContact#test_password","0",""
+"passed","script.test_contact.TestContact#test_login","3",""
+"passed","script.test_contact.TestContact#test_username","0",""

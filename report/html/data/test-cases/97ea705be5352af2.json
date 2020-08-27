@@ -1,0 +1,109 @@
+{
+  "uid" : "97ea705be5352af2",
+  "name" : "test_login",
+  "fullName" : "script.test_contact.TestContact#test_login",
+  "historyId" : "e14e9a5472820d860048f9197e887397",
+  "time" : {
+    "start" : 1598495195600,
+    "stop" : 1598495195603,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录的测试脚本",
+      "time" : {
+        "start" : 1598495195601,
+        "stop" : 1598495195603,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "79ca441b06f96fdd",
+        "name" : "测试输入了:hello, 1, str",
+        "source" : "79ca441b06f96fdd.attach",
+        "type" : "text/plain",
+        "size" : 15
+      }, {
+        "uid" : "481264146ff6808f",
+        "name" : "输入密码的描述",
+        "source" : "481264146ff6808f.attach",
+        "type" : "text/plain",
+        "size" : 12
+      }, {
+        "uid" : "aa738999ced2c573",
+        "name" : "登录的描述",
+        "source" : "aa738999ced2c573.attach",
+        "type" : "text/plain",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestContact"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2CAMGHM"
+  }, {
+    "name" : "thread",
+    "value" : "10432-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "30d5e6248aa8e4b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598495005372,
+        "stop" : 1598495005380,
+        "duration" : 8
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97ea705be5352af2.json",
+  "parameterValues" : [ ]
+}

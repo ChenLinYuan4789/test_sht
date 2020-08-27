@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "script.test_contact",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "97ea705be5352af2",
+      "parentUid" : "00f625d3615c3e5fe3f4628972241352",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598495195600,
+        "stop" : 1598495195603,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_username",
+      "uid" : "ec34d783cb905648",
+      "parentUid" : "00f625d3615c3e5fe3f4628972241352",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598495195607,
+        "stop" : 1598495195607,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_password",
+      "uid" : "856434e34fd3dbcb",
+      "parentUid" : "00f625d3615c3e5fe3f4628972241352",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598495195610,
+        "stop" : 1598495195610,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "script.test_contact"
+  } ]
+}
